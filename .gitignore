@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.streamlit/secrets.toml
+.DS_Store
+._*
+__MACOSX/
+macosx_mnist_tabular/
+.README.md
