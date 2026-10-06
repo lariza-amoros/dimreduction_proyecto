@@ -4,6 +4,8 @@ Proyecto práctico de ingeniería de características desarrollado en Python. Pe
 
 La aplicación dispone de una interfaz de línea de comandos y un frontend en Streamlit. La reducción de dimensionalidad y el reconocimiento son funciones independientes: la red clasifica los 784 píxeles originales normalizados, no los dos componentes de una reducción.
 
+App: https://dimreductionproyecto.streamlit.app/
+
 ## 1. Objetivos
 
 - Construir la clase `DimensionalityReducer` para procesar datos tabulares.
